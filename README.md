@@ -1,5 +1,4 @@
-# Biaya <img width="1919" height="1007" alt="Screenshot 2025-11-03 193044" src="https://github.com/user-attachments/assets/a99daece-fdb3-4ca0-b68d-970bada21267" />
-Pengiriman #
+# Biaya Pengiriman #
 
 ## Deskripsi Program
 Program BiayaPengiriman digunakan untuk menghitung total biaya pengiriman paket berdasarkan berat, jarak pengiriman, dan volume paket.
@@ -56,3 +55,4 @@ Total biaya pengiriman: Rp 68.000
 -Percabangan if-else untuk menentukan tarif dan tambahan biaya
 -Operasi aritmetika dasar
 -Output format teks dengan nilai variabel
+<img width="1919" height="1007" alt="Screenshot 2025-11-03 193044" src="https://github.com/user-attachments/assets/ff774ef3-4cdb-4401-8521-ba562475f3a3" />
